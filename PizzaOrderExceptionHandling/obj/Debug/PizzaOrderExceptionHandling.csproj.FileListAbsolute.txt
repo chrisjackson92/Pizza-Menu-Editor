@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PizzaOrderExceptionHandling\PizzaOrderExceptionHandling\bin\Debug\PizzaOrderExceptionHandling.exe.config
+C:\Users\User\source\repos\PizzaOrderExceptionHandling\PizzaOrderExceptionHandling\bin\Debug\PizzaOrderExceptionHandling.exe
+C:\Users\User\source\repos\PizzaOrderExceptionHandling\PizzaOrderExceptionHandling\bin\Debug\PizzaOrderExceptionHandling.pdb
+C:\Users\User\source\repos\PizzaOrderExceptionHandling\PizzaOrderExceptionHandling\obj\Debug\PizzaOrderExceptionHandling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PizzaOrderExceptionHandling\PizzaOrderExceptionHandling\obj\Debug\PizzaOrderExceptionHandling.exe
+C:\Users\User\source\repos\PizzaOrderExceptionHandling\PizzaOrderExceptionHandling\obj\Debug\PizzaOrderExceptionHandling.pdb
